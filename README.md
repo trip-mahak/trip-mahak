@@ -1,3 +1,4 @@
+![Design and Development](https://github.com/trip-mahak/trip-mahak/1.jpg)
 <h1 align="center">Hello World 👋, I'm Mahak Tripathi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
