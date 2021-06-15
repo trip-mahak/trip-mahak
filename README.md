@@ -1,4 +1,6 @@
 ![Design and Development](https://github.com/trip-mahak/trip-mahak/blob/main/1.jpg)
+<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-science&psig=AOvVaw1fgq-UxJACQFeg1Bw4v9-5&ust=1623866667882000&source=images&cd=vfe&ved=2ahUKEwib-r3wnJrxAhWjQ30KHVvDDxwQr4kDegQIARBu" width="230">
+
 <h1 align="center">Hello World 👋, I'm Mahak Tripathi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
