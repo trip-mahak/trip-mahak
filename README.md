@@ -1,6 +1,8 @@
 <h1 align="center">Hello World 👋, I'm Mahak Tripathi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trip-mahak&label=Profile%20views&color=0e75b6&style=flat" alt="trip-mahak" /> </p>
+
 - 🔭I’m currently working on official website of [OffenOffice](https://www.offenoffice.com/)
 
 - 📫 How to reach me **mahaktripathi5@gmail.com**
