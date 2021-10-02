@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/trip-mahak/trip-mahak/blob/main/1.jpg)
+![Design and Development](https://github.com/trip-mahak/trip-mahak/blob/main/photo-1591382696684-38c427c7547a.jfi)
 <img align='right' src="https://media2.giphy.com/media/hTUDzx90zCDBIFBYyW/200w.gif?cid=82a1493b4n0e7rjj62kk1ktjrhvwcqjswxpc084rp3kgukeo&rid=200w.gif&ct=g" width="230">
 
 <h1 align="center">Hello World 👋, I'm Mahak Tripathi</h1>
@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trip-mahak&label=Profile%20views&color=0e75b6&style=flat" alt="trip-mahak" /> </p>
 
-- 🔭I’m currently working on official website of [OffenOffice](https://www.offenoffice.com/)
+- 🔭Developed an official website of [OffenOffice](https://www.offenoffice.com/)
 
 - 📫 Reach me at **mahaktripathi5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JfCJ69_X14AnJNddlxwhfimLRKznV_4X/view?usp=sharing](https://drive.google.com/file/d/1JfCJ69_X14AnJNddlxwhfimLRKznV_4X/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1p2NEVzzYkXhzXIAxS16CQqQmX-hHiZwy/view?usp=sharing](https://drive.google.com/file/d/1p2NEVzzYkXhzXIAxS16CQqQmX-hHiZwy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
