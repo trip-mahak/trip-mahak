@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/trip-mahak/trip-mahak/blob/main/photo-1591382696684-38c427c7547a.jfi)
+![Design and Development](https://github.com/trip-mahak/trip-mahak/blob/main/photo-1591382696684-38c427c7547a)
 <img align='right' src="https://media2.giphy.com/media/hTUDzx90zCDBIFBYyW/200w.gif?cid=82a1493b4n0e7rjj62kk1ktjrhvwcqjswxpc084rp3kgukeo&rid=200w.gif&ct=g" width="230">
 
 <h1 align="center">Hello World 👋, I'm Mahak Tripathi</h1>
